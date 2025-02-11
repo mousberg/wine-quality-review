@@ -76,7 +76,7 @@ AWS Cloud
 ```bash
 # Create virtual environment
 python -m venv venv
-source venv/bin/activate  # or venv\Scriptsctivate on Windows
+source venv/bin/activate  # or venv\Scripts\activate on Windows
 
 # Install dependencies
 cd api
